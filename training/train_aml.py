@@ -23,8 +23,8 @@ def register_dataset(
     return dataset
 
 
-def main():
-    print("Running train_aml.py")
+def main(): 
+    print("Running train_aml.py THIS IS MMD")
 
     parser = argparse.ArgumentParser("train")
     parser.add_argument(
